@@ -1,0 +1,4 @@
+name=Docker Containers
+category=servers
+desc=View docker containers
+longdesc=View and perform basic actions on docker containers on the host
